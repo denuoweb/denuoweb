@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @denuoweb
-- 👀 I’m interested in finding employment doing linux system administration or programming
-- 🌱 I’m currently learning programming in college
+- 👀 I’m interested in linux system administration and general programming
 - 📫 How to reach me: jaron@rosenau.info
 
 <!---
