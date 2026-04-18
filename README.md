@@ -31,6 +31,5 @@ My work tends to span the full delivery path: technical discovery, implementatio
 ## Links
 
 - Website: [rosenau.info](https://rosenau.info)
-- LinkedIn: [jaronrosenau](https://www.linkedin.com/in/jaronrosenau/)
 - GitHub: [denuoweb](https://github.com/denuoweb)
 - Email: [jaron@rosenau.info](mailto:jaron@rosenau.info)
