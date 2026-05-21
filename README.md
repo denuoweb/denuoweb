@@ -2,6 +2,8 @@
 
 **Implementation / Developer Support Engineer**
 
+Portfolio: [rosenau.info](https://rosenau.info) | Case studies: [rosenau.info/projects](https://rosenau.info/projects)
+
 I build, integrate, debug, document, deploy, and support API-driven web systems. My strongest fit is implementation engineering, developer support, technical support engineering, integration engineering, application support, and customer-facing solutions work where code, logs, APIs, cloud services, and clear handoff all matter.
 
 ## Focus
@@ -13,12 +15,12 @@ I build, integrate, debug, document, deploy, and support API-driven web systems.
 
 ## Selected Work
 
-- **[QuestByCycle](https://questbycycle.org)** - authenticated community climate game with quests, leaderboards, PWA workflows, and live program support
-- **[Moonshine Art case study](https://github.com/Denuo-Web/moonshine-art-case-study)** - sanitized Flutter/Firebase marketplace architecture with Cloud Run, Stripe Connect, print fulfillment, moderation, compliance, and support workflows
-- **[CrowdPM Platform](https://github.com/Denuo-Web/CrowdPMPlatform)** - map-based planning platform with API boundaries, data ingestion design, and contributor-ready implementation scaffolding
-- **[APK Workbench](https://github.com/Denuo-Web/APK-Workbench)** - Linux ARM64 Android tooling with Rust services, GTK UI, build orchestration, and support-oriented docs
-- **[DripCopy](https://github.com/Denuo-Web/DripCopy)** - resilient optical-media copier for low-power Linux hosts and fragile USB workflows
-- **[copy-open-tabs](https://github.com/Denuo-Web/copy-open-tabs)** - small browser workflow utility for collecting and sharing open-tab context
+- **[QuestByCycle](https://rosenau.info/projects/1JvAHKcCLWxQlVstunw4)** - authenticated community climate game with quests, leaderboards, PWA workflows, and live program support
+- **[Moonshine Art case study](https://rosenau.info/projects/moonshine-art)** - sanitized Flutter/Firebase marketplace architecture with Cloud Run, Stripe Connect, print fulfillment, moderation, compliance, and support workflows
+- **[CrowdPM Platform](https://rosenau.info/projects/th58yUyKnQCs4CnrHZe6)** - map-based planning platform with API boundaries, data ingestion design, and contributor-ready implementation scaffolding
+- **[APK Workbench](https://rosenau.info/projects/5phdbvm9zjsJugRVH62R)** - Linux ARM64 Android tooling with Rust services, GTK UI, build orchestration, and support-oriented docs
+- **[DripCopy](https://rosenau.info/projects/fqYsTyY7kKgyn5l7o1e7)** - resilient optical-media copier for low-power Linux hosts and fragile USB workflows
+- **[copy-open-tabs](https://rosenau.info/projects/E8EsnNcKOYpYOMpk3qQJ)** - small browser workflow utility for collecting and sharing open-tab context
 
 ## Target Roles
 
