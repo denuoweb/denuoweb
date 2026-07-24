@@ -1,6 +1,6 @@
 # Jaron Rosenau
 
-**Implementation / Developer Support Engineer**
+**Software Engineer**
 
 Portfolio: [rosenau.info](https://rosenau.info) | Case studies: [rosenau.info/projects](https://rosenau.info/projects)
 
